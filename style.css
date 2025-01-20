@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .card {
+    max-width: 500px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  
+  #result {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .result-underweight {
+    color: #007bff;
+  }
+  
+  .result-normal {
+    color: #28a745;
+  }
+  
+  .result-overweight {
+    color: #ffc107;
+  }
+  
+  .result-obese {
+    color: #dc3545;
+  }
+  
